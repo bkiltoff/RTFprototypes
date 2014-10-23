@@ -12,9 +12,9 @@ Instructions
 =============
 Setup:
 <p>
-1) Review the Ranked Sections table:
+    1) Review the Ranked Sections table:
 <p>
-    1a) Rearrange the sections as necessary. 
+        1a) Rearrange the sections as necessary. 
 <p>
 
     1b) Add or delete sections as needed.
