@@ -12,13 +12,12 @@ Instructions
 =============
 Setup:
 <p>
-    1) Review the Ranked Sections table:
-<p>
-        1a) Rearrange the sections as necessary. 
-<p>
+<ol>
+<li>Review the Ranked Sections table:</li>
+    <ol>
+    <li>Rearrange the sections as necessary.</li>
+    <li>Add or delete sections as needed.</li>
 
-    1b) Add or delete sections as needed.
-<p>
 
 2) Review the Index table:
 <p>
