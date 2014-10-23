@@ -17,17 +17,15 @@ Setup:
     <ol>
     <li>Rearrange the sections as necessary.</li>
     <li>Add or delete sections as needed.</li>
-
-
-2) Review the Index table:
-<p>
-
-    2a) Change any Section assignments as necessary (in the last column)
-<p>
+    </ol>
+<li>Review the Index table:</li>
+<ol>
+<li>Change any Section assignments as necessary (in the last column)</li>
+</ol>
 
 
 <p>
-
+</ol>
 Running the program:
 <p>
 
