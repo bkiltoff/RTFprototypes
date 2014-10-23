@@ -30,7 +30,7 @@ Running the program:
 <li>In the Excel program, click "Sort RTF Report."</li>
 <li>Review the sort for errors and, if found, send a copy to me via email.</li>
 </ol>
-<em>I expect some errors, mostly due to oddly shaped call numbers.</em><p>
+<em>I expect some errors, mostly due to oddly shaped call numbers.</em><br>
 For example: DVD V H S 2 (which is the call number for the 2012 horror film "V/H/S"
 
 
