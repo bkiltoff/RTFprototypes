@@ -29,10 +29,9 @@ Running the program:
 <li>Run the RTF Report out of Polaris as usual, and be sure that the Excel file is still open. </li>
 <li>In the Excel program, click "Sort RTF Report."</li>
 <li>Review the sort for errors and, if found, send a copy to me via email.</li>
-    <ul>
-    <li>I expect some errors, mostly due to oddly shaped call numbers.</li>
-    <li>For example: DVD V H S 2 (which is the call number for the 2012 horror film "V/H/S"<li>
-    </ul>
 </ol>
+<li>I expect some errors, mostly due to oddly shaped call numbers.</li>
+For example: DVD V H S 2 (which is the call number for the 2012 horror film "V/H/S"
+
 
 
